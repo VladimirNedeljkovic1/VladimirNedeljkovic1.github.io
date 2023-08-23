@@ -858,8 +858,9 @@ img.signature {
         text-align: center;
     }
     .about__description {
-        padding: 0 4rem;
+        padding: 0 1rem;
         text-align: center;
+        font-size: var(--small-font-size);
     }
     .qualification__container {
         grid-template-columns: repeat(2, 290px);
